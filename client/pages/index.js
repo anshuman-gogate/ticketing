@@ -1,5 +1,6 @@
 import Link from 'next/link'
 
+// Styles
 const containerStyles = {
   marginTop: '1rem',
   color: '#303030',
